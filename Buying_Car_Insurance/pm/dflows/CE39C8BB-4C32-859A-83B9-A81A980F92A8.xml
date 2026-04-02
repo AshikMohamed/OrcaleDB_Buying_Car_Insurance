@@ -1,0 +1,9 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<DataFlowDesign class="oracle.dbtools.crest.model.design.process.DataFlowDesign" name="Generate_Insurance_Quote Diagram" id="CE39C8BB-4C32-859A-83B9-A81A980F92A8" mainViewID="E37C50D8-BB55-C31F-5D99-03CB4FBE1EBE" topLevel="false" parentDFD_ID="DA7DD551-6AEF-9E4E-6026-FB6A3DE39C19">
+<createdBy>ashik</createdBy>
+<createdTime>2025-10-18 14:44:30 UTC</createdTime>
+<ownerDesignName>Buying_Car_Insurance</ownerDesignName>
+<shouldBeOpen>true</shouldBeOpen>
+<process>256479A0-1A6D-9BD8-93DF-32422E33343B</process>
+<processOrderString>E5A98CF9-18D2-3735-6A25-04F242F109BF,F1F63618-37EC-2E2D-9690-DDB08BC5D55C,588736A1-32CC-6CF4-7A7C-DCD7D9FF85A7,0713E57E-69BB-FE2C-DD3B-61B00B4137D5</processOrderString>
+</DataFlowDesign>

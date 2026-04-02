@@ -1,0 +1,14 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Flow class="oracle.dbtools.crest.model.design.process.Flow" name="Flow_6_Collect_Customer_And_Vehicle_Information Diagram_Par" directorySegmentName="seg_0" id="4FB0BEB9-97FC-61E4-3479-E0FA334ED742">
+<createdBy>ashik</createdBy>
+<createdTime>2025-10-18 14:55:24 UTC</createdTime>
+<ownerDesignName>Buying_Car_Insurance</ownerDesignName>
+<destination>2503689F-960A-890B-176C-0057A1B74DDF</destination>
+<logging>false</logging>
+<opCreate>false</opCreate>
+<opDelete>false</opDelete>
+<opRead>false</opRead>
+<opUpdate>false</opUpdate>
+<sourceProcessObject>D562FA0E-3784-09B1-DEDB-1397015B408E</sourceProcessObject>
+<targetProcessObject>2503689F-960A-890B-176C-0057A1B74DDF</targetProcessObject>
+</Flow>

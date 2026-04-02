@@ -1,0 +1,9 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<DataFlowDesign class="oracle.dbtools.crest.model.design.process.DataFlowDesign" name="Buying_Car_Insurance Diagram" id="DA7DD551-6AEF-9E4E-6026-FB6A3DE39C19" mainViewID="5A113037-5ABE-086C-8740-541726572CCA" topLevel="false" parentDFD_ID="DD9D7400-DFCC-045D-CBEE-6B9234A17405">
+<createdBy>ashik</createdBy>
+<createdTime>2025-10-18 14:28:25 UTC</createdTime>
+<ownerDesignName>Buying_Car_Insurance</ownerDesignName>
+<shouldBeOpen>true</shouldBeOpen>
+<process>42921D45-E087-4505-1D17-AEACD8D1E53F</process>
+<processOrderString>D562FA0E-3784-09B1-DEDB-1397015B408E,256479A0-1A6D-9BD8-93DF-32422E33343B,2EEBE569-A457-DAAF-8E08-4590164A4C45</processOrderString>
+</DataFlowDesign>

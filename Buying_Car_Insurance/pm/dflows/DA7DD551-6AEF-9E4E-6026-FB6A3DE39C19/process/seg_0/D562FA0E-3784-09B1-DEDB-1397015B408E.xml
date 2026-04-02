@@ -1,0 +1,18 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Process class="oracle.dbtools.crest.model.design.process.Process" name="Collect_Customer_And_Vehicle_Information" directorySegmentName="seg_0" id="D562FA0E-3784-09B1-DEDB-1397015B408E">
+<createdBy>ashik</createdBy>
+<createdTime>2025-10-18 14:29:47 UTC</createdTime>
+<ownerDesignName>Buying_Car_Insurance</ownerDesignName>
+<primary>false</primary>
+<type>1</type>
+<batchMinimumTransactions>1000</batchMinimumTransactions>
+<batchTimeUnit>Second</batchTimeUnit>
+<diagram>A5BB3CD9-0C48-C8AD-7911-113EB72B02C8</diagram>
+<frequencyTimeUnit>Day</frequencyTimeUnit>
+<frequencyTimes>0</frequencyTimes>
+<interactiveLongestResponseTime>5</interactiveLongestResponseTime>
+<interactiveResponseTimeUnit>Second</interactiveResponseTimeUnit>
+<mode>Unknown</mode>
+<priority>Low</priority>
+<peakPeriodsString>000000000000000000000000</peakPeriodsString>
+</Process>

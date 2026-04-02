@@ -1,0 +1,18 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Process class="oracle.dbtools.crest.model.design.process.Process" name="Generate_Insurance_Quote" directorySegmentName="seg_0" id="256479A0-1A6D-9BD8-93DF-32422E33343B">
+<createdBy>ashik</createdBy>
+<createdTime>2025-10-18 14:30:16 UTC</createdTime>
+<ownerDesignName>Buying_Car_Insurance</ownerDesignName>
+<primary>false</primary>
+<type>1</type>
+<batchMinimumTransactions>1000</batchMinimumTransactions>
+<batchTimeUnit>Second</batchTimeUnit>
+<diagram>CE39C8BB-4C32-859A-83B9-A81A980F92A8</diagram>
+<frequencyTimeUnit>Day</frequencyTimeUnit>
+<frequencyTimes>0</frequencyTimes>
+<interactiveLongestResponseTime>5</interactiveLongestResponseTime>
+<interactiveResponseTimeUnit>Second</interactiveResponseTimeUnit>
+<mode>Unknown</mode>
+<priority>Low</priority>
+<peakPeriodsString>000000000000000000000000</peakPeriodsString>
+</Process>

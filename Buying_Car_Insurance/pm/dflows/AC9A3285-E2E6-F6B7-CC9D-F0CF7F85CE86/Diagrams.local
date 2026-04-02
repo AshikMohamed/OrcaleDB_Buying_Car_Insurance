@@ -1,0 +1,4 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<oracle.dbtools.crest.model.design.process.DataFlowDesign>
+   <object objectType="main_view" objectID="1274F037-C540-DAD5-6B57-ECD24A62DF1E" name="Process_Payment_and_Confirm_Policy Diagram" visible="true"/>
+</oracle.dbtools.crest.model.design.process.DataFlowDesign>

@@ -1,0 +1,4 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<oracle.dbtools.crest.model.design.process.DataFlowDesign>
+   <object objectType="main_view" objectID="FB62ADEF-1553-C62B-9766-F7BBB825B533" name="Collect_Customer_And_Vehicle_Information Diagram" visible="true"/>
+</oracle.dbtools.crest.model.design.process.DataFlowDesign>

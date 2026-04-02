@@ -1,0 +1,9 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<DataFlowDesign class="oracle.dbtools.crest.model.design.process.DataFlowDesign" name="Process_Payment_and_Confirm_Policy Diagram" id="AC9A3285-E2E6-F6B7-CC9D-F0CF7F85CE86" mainViewID="1274F037-C540-DAD5-6B57-ECD24A62DF1E" topLevel="false" parentDFD_ID="DA7DD551-6AEF-9E4E-6026-FB6A3DE39C19">
+<createdBy>ashik</createdBy>
+<createdTime>2025-10-18 14:46:18 UTC</createdTime>
+<ownerDesignName>Buying_Car_Insurance</ownerDesignName>
+<shouldBeOpen>true</shouldBeOpen>
+<process>2EEBE569-A457-DAAF-8E08-4590164A4C45</process>
+<processOrderString>F4BB16EA-4844-C55A-E679-8E26BF057BE3,A948C790-F0F7-57EC-1E8D-73331B8F8071,5BCE72F5-5E1E-FB9D-1352-9736BA99424B,B6D34A1A-CED7-3D47-3D36-EE3D7970F92F,3AF75262-D040-97B2-AC96-FF4D0F34864F</processOrderString>
+</DataFlowDesign>

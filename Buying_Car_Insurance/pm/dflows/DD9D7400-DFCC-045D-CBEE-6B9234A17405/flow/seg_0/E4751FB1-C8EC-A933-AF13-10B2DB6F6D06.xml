@@ -1,0 +1,14 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Flow class="oracle.dbtools.crest.model.design.process.Flow" name="Flow_10_Process_Payment_and_Confirm_Policy Diagram_Par_Buying_Car_Insurance Diagram_Par" directorySegmentName="seg_0" id="E4751FB1-C8EC-A933-AF13-10B2DB6F6D06">
+<createdBy>ashik</createdBy>
+<createdTime>2025-10-18 15:08:14 UTC</createdTime>
+<ownerDesignName>Buying_Car_Insurance</ownerDesignName>
+<destination>D5EC024E-9FE9-9CED-99BF-6918AE070FF0</destination>
+<logging>false</logging>
+<opCreate>false</opCreate>
+<opDelete>false</opDelete>
+<opRead>false</opRead>
+<opUpdate>false</opUpdate>
+<sourceProcessObject>42921D45-E087-4505-1D17-AEACD8D1E53F</sourceProcessObject>
+<targetProcessObject>D5EC024E-9FE9-9CED-99BF-6918AE070FF0</targetProcessObject>
+</Flow>

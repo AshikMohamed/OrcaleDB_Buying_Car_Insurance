@@ -1,0 +1,14 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Flow class="oracle.dbtools.crest.model.design.process.Flow" name="Flow_1_Generate_Insurance_Quote Diagram_Par" directorySegmentName="seg_0" id="68DEEFD6-DD70-DF87-9A5D-D594E10859D0">
+<createdBy>ashik</createdBy>
+<createdTime>2025-10-18 14:57:48 UTC</createdTime>
+<ownerDesignName>Buying_Car_Insurance</ownerDesignName>
+<destination>D14B7C68-C703-1194-5836-607855749A03</destination>
+<logging>false</logging>
+<opCreate>false</opCreate>
+<opDelete>false</opDelete>
+<opRead>false</opRead>
+<opUpdate>false</opUpdate>
+<sourceProcessObject>256479A0-1A6D-9BD8-93DF-32422E33343B</sourceProcessObject>
+<targetProcessObject>D14B7C68-C703-1194-5836-607855749A03</targetProcessObject>
+</Flow>
